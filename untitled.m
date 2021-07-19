@@ -1,0 +1,1 @@
+function [L,U] = guassian
